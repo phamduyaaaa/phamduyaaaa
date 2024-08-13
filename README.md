@@ -4,7 +4,7 @@
 #### Coding skill của tôi còn khá hạn chế, nên khi rảnh Codeforce sẽ là điểm đến lí tưởng đối với tôi.
 ### Thành tích:
 #### Giải Ba Đại Số Tuyến Tính cấp trường
-#### Giải Khuyến Khích NCKH-SV cấp trường
+#### Giải Khuyến Khích NCKH-SV cấp trường: Nghiên cứu thiết kế và tối ưu hóa quỹ đạo chuyển động của robot gắp trên máy đúc áp lực TOSHIBA - DC650B bằng công cụ Robotics toolbox trong Matlab
 ### Hoạt động:
 #### Thành viên CLB Tin học-Đại học Công Nghiệp Hà Nội
 #### Tham gia khoá học hè HIT PUBLIC Python 2024
