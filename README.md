@@ -10,4 +10,5 @@
 #### Tham gia khoá học hè HIT PUBLIC Python 2024
 #### Thành viên HaIBotLab - Lab nghiên cứu chính về AVG & AI trong AVG
 #### Cảm ơn vì đã đọc!
-![flag-of-vietnam](https://github.com/user-attachments/assets/40874806-e7ea-47b6-aa87-2298708b5edd)
+
+![giphy](https://github.com/user-attachments/assets/d55e66af-e2f3-40c2-a468-4dc78edb7e61)
