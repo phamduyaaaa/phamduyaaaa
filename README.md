@@ -1,15 +1,8 @@
-# About Me!
-#### Xin chào, tôi là Phạm Đức Duy, hiện đang học ngành Robot & Trí tuệ nhân tạo tại Đại học Công Nghiệp Hà Nội.
-#### Tôi thường xuyên trau trồi kiến thức ở cả 2 mảng Robot & AI.
-#### Coding skill của tôi còn khá hạn chế, nên khi rảnh Codeforce sẽ là điểm đến lí tưởng đối với tôi.
-### Thành tích:
-#### Giải Ba Đại Số Tuyến Tính cấp trường
-#### Giải Khuyến Khích NCKH-SV cấp trường: Nghiên cứu thiết kế và tối ưu hóa quỹ đạo chuyển động của robot gắp trên máy đúc áp lực TOSHIBA - DC650B bằng công cụ Robotics toolbox trong Matlab
-### Hoạt động:
-#### Thành viên CLB Tin học-Đại học Công Nghiệp Hà Nội
-#### Tham gia khoá học hè HIT PUBLIC Python 2024
-#### Thành viên HaIBotLab - Lab nghiên cứu chính về AVG & AI trong AVG
-#### Cảm ơn vì đã đọc!
+# Hi![Animation - 1724132108645](https://github.com/user-attachments/assets/f6c9f15a-74e1-4d78-a89e-7214a500936b)
+I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939). 
+<img align="right" alt="coding User Image" src="https://github.com/user-attachments/assets/d55e66af-e2f3-40c2-a468-4dc78edb7e61" height="300" />
+- I'm studying in **Hanoi University of Industry**
+- My major is **Robot & AI**
+- Living in **Hanoi, Viet Nam**
 
 
-![giphy](https://github.com/user-attachments/assets/d55e66af-e2f3-40c2-a468-4dc78edb7e61)
