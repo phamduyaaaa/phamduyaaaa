@@ -5,6 +5,4 @@ I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
 - My major is **Robot & AI**
 - Living in **Hanoi, Viet Nam**
 <img align="bottom" alt="Fire" src="https://github.com/user-attachments/assets/e54e88a5-e3a8-4005-aa98-7b0e39fa339c" height="100" />
-<img align="bottom" alt="Hi_There" src="https://github.com/user-attachments/assets/96046c7d-68d3-447c-a7d5-0ccca9f5fad8" height="200" />
-
-
+<img align="bottom" alt="Hi_There" src="https://github.com/user-attachments/assets/75b23b19-abcd-428e-bafc-b55360b28338" height="150" />
