@@ -4,5 +4,6 @@ I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939).
 - I'm studying in **Hanoi University of Industry**
 - My major is **Robot & AI**
 - Living in **Hanoi, Viet Nam**
+<img align="bottom" alt="Fire" src="https://github.com/user-attachments/assets/e54e88a5-e3a8-4005-aa98-7b0e39fa339c" height="100" />
 
 
