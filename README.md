@@ -1,4 +1,4 @@
-# 🇻🇳
+# About Me!
 #### Xin chào, tôi là Phạm Đức Duy, hiện đang học ngành Robot & Trí tuệ nhân tạo tại Đại học Công Nghiệp Hà Nội.
 #### Tôi thường xuyên trau trồi kiến thức ở cả 2 mảng Robot & AI.
 #### Coding skill của tôi còn khá hạn chế, nên khi rảnh Codeforce sẽ là điểm đến lí tưởng đối với tôi.
@@ -10,5 +10,6 @@
 #### Tham gia khoá học hè HIT PUBLIC Python 2024
 #### Thành viên HaIBotLab - Lab nghiên cứu chính về AVG & AI trong AVG
 #### Cảm ơn vì đã đọc!
+
 
 ![giphy](https://github.com/user-attachments/assets/d55e66af-e2f3-40c2-a468-4dc78edb7e61)
