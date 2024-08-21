@@ -10,15 +10,17 @@ I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
 
 <a href="https://github.com/phamduyaaaa/The-Heart/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=The-Heart&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=the-Heart&theme=shades-of-purple" />
 </a>
 
 <a href="https://github.com/phamduyaaaa/map_robocon2023">
   <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md   : All themes name in here!  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=map_robocon2023&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=Map_robocon2023&theme=monokai" />
 </a>
 
 <a href="https://github.com/phamduyaaaa/RobotVisai">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RobotVisai&theme=maroongold" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RobotViSai&theme=maroongold" />
 </a>    
+  
+
