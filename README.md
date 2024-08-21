@@ -5,16 +5,19 @@ I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
 - My major is **Robot & AI**.
 - Living in **Hanoi, Viet Nam**.
 <img align="bottom" alt="Fire" src="https://github.com/user-attachments/assets/e54e88a5-e3a8-4005-aa98-7b0e39fa339c" height="100" />
+
 <img align="bottom" alt="Hi_There" src="https://github.com/user-attachments/assets/75b23b19-abcd-428e-bafc-b55360b28338" height="150" />
 
 <a href="https://github.com/phamduyaaaa/The-Heart/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=The-Heart&theme=shades-of-purple" />
 </a>
+
 <a href="https://github.com/phamduyaaaa/map_robocon2023">
   <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md   : All themes name in here!  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=map_robocon2023&theme=monokai" />
 </a>
+
 <a href="https://github.com/phamduyaaaa/RobotVisai">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RobotVisai&theme=maroongold" />
