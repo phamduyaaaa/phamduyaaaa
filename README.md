@@ -52,7 +52,7 @@ I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
 
 <a href="https://github.com/phamduyaaaa/map_robocon2023">
   <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md    All themes name in here!  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=Map_robocon2023&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=Map_robocon2023&theme=blueberry" />
 </a>
 
 <a href="https://github.com/phamduyaaaa/RobotVisai">
