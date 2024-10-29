@@ -56,7 +56,7 @@ I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
 </a>    
 <a href="https://github.com/phamduyaaaa/Visionary-T">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RobotViSai&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=Visionary-T&theme=shades-of-purple" />
 </a>    
 
   
