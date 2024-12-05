@@ -33,6 +33,11 @@ I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=ubuntu-desktop-ros&theme=algolia" />
 </a>    
+<a href="https://github.com/phamduyaaaa/RL_gazebo">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RL_gazebo&theme=monokai" />
+</a>    
+  <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md    Xem temp ở đây này!  -->
 
 
   
