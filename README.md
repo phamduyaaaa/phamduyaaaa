@@ -40,5 +40,5 @@ I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
   <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md    Xem temp ở đây này!  -->
 
 
-  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamduyaaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
