@@ -2,7 +2,7 @@
 ## 👋 Hi, I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
 
 #### <img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="250" style="border-radius: 10px;"/>
-#### I'm studying at Hanoi University of Industry. My major is Robot & AI. I am interested in the following topics: Deep Learning in Computer Vision, Reinforcement Learning, AI for Robotic...
+#### I'm studying at Hanoi University of Industry. My major is Robot & AI. I'm interested in the following topics: Deep Learning in Computer Vision, Reinforcement Learning, AI for Robotic...
 
 <img align="bottom" alt="Fire" src="https://github.com/user-attachments/assets/e54e88a5-e3a8-4005-aa98-7b0e39fa339c" height="180" />
 
