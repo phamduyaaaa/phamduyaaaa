@@ -1,10 +1,15 @@
 # Hi![Animation - 1724132108645](https://github.com/user-attachments/assets/f6c9f15a-74e1-4d78-a89e-7214a500936b) 
-I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
-<img align="right" alt="coding User Image" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" height="300" />
-- Studying in **Hanoi University of Industry**.
-- My major is **Robot & AI**.
-- Living in **Hanoi, Viet Nam**.
-- <img src="https://github.com/user-attachments/assets/fedb4cf5-3992-4edd-8163-1b225fa26fe9" alt="CodeForces" width="16"/> [CodeForces](https://codeforces.com/profile/duyphamrobotic) <img src="https://github.com/user-attachments/assets/935c25d4-4430-4ea0-939f-476f4efd0103" alt="Gmail" width="16"/> [phamduyaaaaa@gmail.com](https://github.com/phamduyaaaa)
+# 👋 Hi, I'm [Pham Duc Duy](https://www.facebook.com/profile.php?id=100070936464939)
+
+<img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="250" style="border-radius: 15px;"/>
+
+- 🎓 **Studying at:** Hanoi University of Industry  
+- 🤖 **Major:** Robot & AI  
+- 📍 **Living in:** Hanoi, Vietnam  
+
+## 🌐 Find me on:
+- 🌟 <img src="https://github.com/user-attachments/assets/fedb4cf5-3992-4edd-8163-1b225fa26fe9" alt="CodeForces" width="18" height="18" style="vertical-align: middle;"/> [CodeForces Profile](https://codeforces.com/profile/duyphamrobotic)  
+- ✉️ <img src="https://github.com/user-attachments/assets/935c25d4-4430-4ea0-939f-476f4efd0103" alt="Gmail" width="18" height="18" style="vertical-align: middle;"/> [phamduyaaaaa@gmail.com](mailto:phamduyaaaaa@gmail.com)
 
 <img align="bottom" alt="Fire" src="https://github.com/user-attachments/assets/e54e88a5-e3a8-4005-aa98-7b0e39fa339c" height="100" />
 
