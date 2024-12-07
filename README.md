@@ -4,9 +4,7 @@
 #### <img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="250" style="border-radius: 10px;"/>
 #### I'm studying at Hanoi University of Industry. My major is Robot & AI. I am interested in the following topics: Deep Learning in Computer Vision, Reinforcement Learning, AI for Robotic...
 
-#### <img src="https://github.com/user-attachments/assets/fedb4cf5-3992-4edd-8163-1b225fa26fe9" alt="CodeForces" width="16"/> [CodeForces](https://codeforces.com/profile/duyphamrobotic) <img src="https://github.com/user-attachments/assets/935c25d4-4430-4ea0-939f-476f4efd0103" alt="Gmail" width="16"/> [phamduyaaaaa@gmail.com](https://github.com/phamduyaaaa)
-
-<img align="bottom" alt="Fire" src="https://github.com/user-attachments/assets/e54e88a5-e3a8-4005-aa98-7b0e39fa339c" height="100" />
+<img align="bottom" alt="Fire" src="https://github.com/user-attachments/assets/e54e88a5-e3a8-4005-aa98-7b0e39fa339c" height="180" />
 
 <img align="bottom" alt="Hi_There" src="https://github.com/user-attachments/assets/75b23b19-abcd-428e-bafc-b55360b28338" height="150" />
 
