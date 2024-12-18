@@ -19,7 +19,14 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=Play-Atari-with-Deep-Q-Learning&theme=radical" />
 </a>  
-
+<a href="https://github.com/phamduyaaaa/MuJoCo-with-DDPG">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=MuJoCo-with-DDPG&theme=vision-friendly-dark" />
+</a>   
+<a href="https://github.com/phamduyaaaa/2-DOF-Robot-Arm">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=2-DOF-Robot-Arm&theme=dark" />
+</a>   
 <a href="https://github.com/phamduyaaaa/The-Heart/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=the-Heart&theme=gotham" />
