@@ -8,7 +8,7 @@
 
 <img align="bottom" alt="Hi_There" src="https://github.com/user-attachments/assets/75b23b19-abcd-428e-bafc-b55360b28338" height="150" />
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamduyaaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamduyaaaa&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <a href="https://github.com/phamduyaaaa/Play-All-ToyText-with-Q-Learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
