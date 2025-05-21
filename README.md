@@ -1,5 +1,5 @@
 # Welcome ! ![Animation - 1724132108645](https://github.com/user-attachments/assets/f6c9f15a-74e1-4d78-a89e-7214a500936b) 
-## 👋 Hi, I'm [Pham Duc Duy]([https://www.facebook.com/profile.php?id=100070936464939](https://phamduyaaaa.github.io/))
+## 👋 Hi, I'm [Pham Duc Duy](https://phamduyaaaa.github.io/)
 
 ### <img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="250" style="border-radius: 10px;"/>
 I'm studying at Hanoi University of Industry. My major is Robot & AI. I'm interested in the following topics: Deep Learning in Computer Vision, Reinforcement Learning, AI for Robotic, AI for Point Cloud...
