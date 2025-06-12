@@ -4,13 +4,13 @@
 ### <img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="250" style="border-radius: 10px;"/>
 I'm studying at Hanoi University of Industry. My major is Robot & AI. I'm interested in the following topics: Deep Learning in Computer Vision, Reinforcement Learning, AI for Robotic, AI for Point Cloud...
 
-![Duy Pham's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamduyaaaa&theme=ambient_gradient&show_icons=true)
-
 <img align="bottom" alt="Fire" src="https://github.com/user-attachments/assets/e54e88a5-e3a8-4005-aa98-7b0e39fa339c" height="180" />
 
 <img align="bottom" alt="Hi_There" src="https://github.com/user-attachments/assets/75b23b19-abcd-428e-bafc-b55360b28338" height="150" />
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamduyaaaa&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Duy Pham's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamduyaaaa&theme=ambient_gradient&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamduyaaaa&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 <a href="https://github.com/phamduyaaaa/3DObjectRecognition-VoxNet">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -59,15 +59,18 @@ I'm studying at Hanoi University of Industry. My major is Robot & AI. I'm intere
 <a href="https://github.com/phamduyaaaa/RobotVisai">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RobotViSai&theme=midnight-purple" />
-</a>    
+</a>
+
 <a href="https://github.com/phamduyaaaa/ubuntu-desktop-ros">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=ubuntu-desktop-ros&theme=chartreuse-dark" />
-</a>    
+</a>
+
 <a href="https://github.com/phamduyaaaa/RL_gazebo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RL_gazebo&theme=great-gatsby" />
-</a>    
+</a>
+
   <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md    Xem temp ở đây này!  -->
 
 
