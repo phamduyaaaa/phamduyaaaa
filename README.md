@@ -1,6 +1,6 @@
-
 <div align="center">
-  <h1>👋 Hi, I'm Duy 👨‍💻</h1>
+  <h1><img width="50" height="50" alt="emojis com edit-the-cartoon-style-hand-in-a-peace-sign-gesture-with-both-the-index-and-middle-fingers-fully-straight-and-separated,-pinky-finger-fully-straight-and-visible,-remove-the-bent-pinky,-thumb-clearly-touchi" src="https://github.com/user-attachments/assets/314bf9ea-3a0d-49ff-ab2d-c176c209eb18" /> Hi, I'm Duy <img width="70" height="70" alt="emojis com zoro-from-one-piece-in-chibi-cartoon-style,-cute-and-exaggerated-features,-green-hair,-three-swords,-confident-expression" src="https://github.com/user-attachments/assets/bc5f56ea-ed38-4a91-b636-e96412435720" />
+  </h1>
 </div>
 
 <a href="https://phamduyaaaa.github.io/"><img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="250" style="border-radius: 10px;"/></a>
@@ -10,14 +10,14 @@ I'm studying at **Hanoi University of Industry**, majoring in **Robotics and Art
 <br/>
 
 I am deeply passionate about leveraging AI to tackle real-world challenges, with a particular focus on:
-- 🤖 **AI for Robotics**: Enabling robots with intelligent and autonomous capabilities.
-- 👁️ **Deep Learning for Computer Vision**: Processing and understanding images and videos.
-- 🧠 **Reinforcement Learning**: Training intelligent agents through interaction with their environment.
-- ☁️ **3D Point Cloud Processing**: Analyzing and interpreting 3D data from sensors.
+- <img width="40" height="40" alt="emojis com robot-being-hit-with-a-red-beam-by-a-flying-robot" src="https://github.com/user-attachments/assets/2c1c8321-0720-4372-9780-b29390485593" /> **AI for Robotics**: Enabling robots with intelligent and autonomous capabilities.
+- <img width="40" height="40" alt="emojis com chibi-sticker-style-camera,-cute-and-exaggerated" src="https://github.com/user-attachments/assets/d727fd23-7d83-4c9c-aebe-414fdf49becb" /> **Deep Learning for Computer Vision**: Processing and understanding images and videos.
+- <img width="40" height="40" alt="emojis com gamepad-with-waves-symbolizing-streaming,-chibi-stickers-style,-cartoonish,-friendly" src="https://github.com/user-attachments/assets/0d270a06-cdfd-4bc1-93ac-056a64ceeda8" /> **Reinforcement Learning**: Training intelligent agents through interaction with their environment.
+- <img width="40" height="40" alt="emojis com chibi-sticker-style-cloud-with-a-smiling-face,-cute-and-exaggerated" src="https://github.com/user-attachments/assets/ef6d1bae-0307-4544-a565-e78e8cfeffad" /> **3D Point Cloud Processing**: Analyzing and interpreting 3D data from sensors.
 
 <br/>
 
-## 🔗 Connect with Me
+## <img width="40" height="40" alt="emojis com chibi-style-rainbow" src="https://github.com/user-attachments/assets/8435cfd7-1ab1-431f-b122-31f3efaaa436" /> Connect with Me
 
 <p align="left">
   <a href="https://phamduyaaaa.github.io/" target="_blank">
@@ -35,7 +35,7 @@ I am deeply passionate about leveraging AI to tackle real-world challenges, with
 </p>
 
 
-## 🛠️ Technologies & Tools
+## <img width="40" height="40" alt="emojis com friendly-cartoon-chibi-sticker-style-wrench-and-puzzle,-theme-of-modifications,-transparent-background" src="https://github.com/user-attachments/assets/4ff5598c-df9c-48f9-a92d-b0a3f72a7cb5" /> Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,pytorch,opencv,ros,matlab,arduino,vscode,pycharm,vim,anaconda,ubuntu,git,github,docker,aws&theme=dark" alt="My Skills"/>
@@ -43,7 +43,7 @@ I am deeply passionate about leveraging AI to tackle real-world challenges, with
 
 <br/>
 
-## 📊 My GitHub Stats
+## <img width="40" height="40" alt="emojis com a-simple-cartoon-crown,-bright-yellow,-playful" src="https://github.com/user-attachments/assets/01c4f126-34d6-4334-8a64-ed274decec17" /> My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phamduyaaaa&theme=ambient_gradient&show_icons=true" alt="Duy Pham's GitHub Stats" />
@@ -53,7 +53,7 @@ I am deeply passionate about leveraging AI to tackle real-world challenges, with
 
 <br/>
 
-## 🚀 Featured Projects
+## <img width="40" height="40" alt="emojis com étiquettes-avec-marqué-dessus-_-cadeau-à-la-clé" src="https://github.com/user-attachments/assets/df9a3183-7f63-41f6-a5bf-65eb34c6c775" /> Featured Projects
 
 <div align="center">
   <a href="https://github.com/phamduyaaaa/Play-All-ToyText-with-Q-Learning">
