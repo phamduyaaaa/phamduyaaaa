@@ -11,7 +11,7 @@ I'm studying at **Hanoi University of Industry**, majoring in **Robotics and Art
 
 I am deeply passionate about leveraging AI to tackle real-world challenges, with a particular focus on:
 - <img width="40" height="40" alt="emojis com robot-being-hit-with-a-red-beam-by-a-flying-robot" src="https://github.com/user-attachments/assets/2c1c8321-0720-4372-9780-b29390485593" /> **AI for Robotics**: Enabling robots with intelligent and autonomous capabilities.
-- <img width="40" height="40" alt="emojis com chibi-sticker-style-camera,-cute-and-exaggerated" src="https://github.com/user-attachments/assets/d727fd23-7d83-4c9c-aebe-414fdf49becb" /> **Deep Learning for Computer Vision**: Processing and understanding images and videos.
+- <img width="40" height="40" alt="emojis com chibi-sticker-style-camera,-cute-and-exaggerated" src="https://github.com/user-attachments/assets/d727fd23-7d83-4c9c-aebe-414fdf49becb" /> **Deep Learning for Computer Vision**: Processing and understanding images.
 - <img width="40" height="40" alt="emojis com gamepad-with-waves-symbolizing-streaming,-chibi-stickers-style,-cartoonish,-friendly" src="https://github.com/user-attachments/assets/0d270a06-cdfd-4bc1-93ac-056a64ceeda8" /> **Reinforcement Learning**: Training intelligent agents through interaction with their environment.
 - <img width="40" height="40" alt="emojis com chibi-sticker-style-cloud-with-a-smiling-face,-cute-and-exaggerated" src="https://github.com/user-attachments/assets/ef6d1bae-0307-4544-a565-e78e8cfeffad" /> **3D Point Cloud Processing**: Analyzing and interpreting 3D data from sensors.
 
