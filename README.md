@@ -1,77 +1,93 @@
-# Welcome ! ![Animation - 1724132108645](https://github.com/user-attachments/assets/f6c9f15a-74e1-4d78-a89e-7214a500936b) 
-## 👋 Hi, I'm [Pham Duc Duy](https://phamduyaaaa.github.io/)
 
-### <img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="250" style="border-radius: 10px;"/>
-I'm studying at Hanoi University of Industry. My major is Robot & AI. I'm interested in the following topics: Deep Learning in Computer Vision, Reinforcement Learning, AI for Robotic, AI for Point Cloud...
+<div align="center">
+  <h1>👋 Hi, I'm Duy 👨‍💻</h1>
+</div>
 
-<img align="bottom" alt="Fire" src="https://github.com/user-attachments/assets/e54e88a5-e3a8-4005-aa98-7b0e39fa339c" height="180" />
+<a href="https://phamduyaaaa.github.io/"><img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="250" style="border-radius: 10px;"/></a>
 
-<img align="bottom" alt="Hi_There" src="https://github.com/user-attachments/assets/75b23b19-abcd-428e-bafc-b55360b28338" height="150" />
+I'm studying at **Hanoi University of Industry**, majoring in **Robotics and Artificial Intelligence**.
 
-![Duy Pham's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamduyaaaa&theme=ambient_gradient&show_icons=true)
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamduyaaaa&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-<a href="https://github.com/phamduyaaaa/3DObjectRecognition-VoxNet">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=3DObjectRecognition-VoxNet&theme=vision-friendly-dark" />
-</a>
+I am deeply passionate about leveraging AI to tackle real-world challenges, with a particular focus on:
+- 🤖 **AI for Robotics**: Enabling robots with intelligent and autonomous capabilities.
+- 👁️ **Deep Learning for Computer Vision**: Processing and understanding images and videos.
+- 🧠 **Reinforcement Learning**: Training intelligent agents through interaction with their environment.
+- ☁️ **3D Point Cloud Processing**: Analyzing and interpreting 3D data from sensors.
 
-<a href="https://github.com/phamduyaaaa/MuJoCo-with-DDPG">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=MuJoCo-with-DDPG&theme=dark" />
-</a>
+<br/>
 
-<a href="https://github.com/phamduyaaaa/RoadDetection-DeepLabv3">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RoadDetection-DeepLabv3&theme=nord" />
-</a>
+## 🔗 Connect with Me
 
-<a href="https://github.com/phamduyaaaa/Play-All-ToyText-with-Q-Learning">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=Play-All-ToyText-with-Q-Learning&theme=merko" />
-</a>  
+<p align="left">
+  <a href="https://phamduyaaaa.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:duypham.robotics@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/duypham-robotics/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/duypham.robotics" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
-<a href="https://github.com/phamduyaaaa/Play-Atari-with-Deep-Q-Learning">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=Play-Atari-with-Deep-Q-Learning&theme=radical" />
-</a>  
 
-<a href="https://github.com/phamduyaaaa/2-DOF-Robot-Arm">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=2-DOF-Robot-Arm&theme=dark" />
-</a>   
-<a href="https://github.com/phamduyaaaa/The-Heart/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=the-Heart&theme=gotham" />
-</a>
+## 🛠️ Technologies & Tools
 
-<a href="https://github.com/phamduyaaaa/Visionary-T">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=Visionary-T&theme=highcontrast" />
-</a>    
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,pytorch,opencv,ros,matlab,arduino,vscode,pycharm,vim,anaconda,ubuntu,git,github,docker,aws&theme=dark" alt="My Skills"/>
+</p>
 
-<a href="https://github.com/phamduyaaaa/CS50P">
-  <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md    All themes name in here!  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=CS50P&theme=blue-green" />
-</a>
+<br/>
 
-<a href="https://github.com/phamduyaaaa/RobotVisai">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RobotViSai&theme=midnight-purple" />
-</a>
+## 📊 My GitHub Stats
 
-<a href="https://github.com/phamduyaaaa/ubuntu-desktop-ros">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=ubuntu-desktop-ros&theme=chartreuse-dark" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phamduyaaaa&theme=ambient_gradient&show_icons=true" alt="Duy Pham's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamduyaaaa&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
-<a href="https://github.com/phamduyaaaa/RL_gazebo">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamduyaaaa&repo=RL_gazebo&theme=great-gatsby" />
-</a>
+<br/>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md    Xem temp ở đây này!  -->
+## 🚀 Featured Projects
 
+<div align="center">
+  <a href="https://github.com/phamduyaaaa/Play-All-ToyText-with-Q-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=Play-All-ToyText-with-Q-Learning&theme=radical" />
+  </a>
+  <a href="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=qr-dqn-robot-simulation-assets&theme=radical" />
+  </a>
+  <a href="https://github.com/phamduyaaaa/MuJoCo-with-DDPG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=MuJoCo-with-DDPG&theme=radical" />
+  </a>
+  <a href="https://github.com/phamduyaaaa/Play-Atari-with-Deep-Q-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=Play-Atari-with-Deep-Q-Learning&theme=radical" />
+  </a>
+  <a href="https://github.com/phamduyaaaa/RL_gazebo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=RL_gazebo&theme=radical" />
+  </a>
+  <a href="https://github.com/phamduyaaaa/2-DOF-Robot-Arm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=2-DOF-Robot-Arm&theme=radical" />
+  </a>
+  <a href="https://github.com/phamduyaaaa/3DObjectRecognition-VoxNet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=3DObjectRecognition-VoxNet&theme=radical" />
+  </a>
+  <a href="https://github.com/phamduyaaaa/RoadDetection-DeepLabv3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=RoadDetection-DeepLabv3&theme=radical" />
+  </a>
+  <a href="https://github.com/phamduyaaaa/Visionary-T">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=Visionary-T&theme=radical" />
+  </a>
+  <a href="https://github.com/phamduyaaaa/CS50P">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=CS50P&theme=radical" />
+  </a>
+</div>
+
+<br>
 
 
