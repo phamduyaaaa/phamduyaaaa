@@ -92,7 +92,7 @@ I am deeply passionate about leveraging AI to tackle real-world challenges, with
 <div align="center">
 
   <h1>
-    <img width="200" height="200" alt="emojis com chibi-sticker-style-carrot,-cute-and-exaggerated,-jumping-with-excitement" src="https://github.com/user-attachments/assets/c3084ed2-7f02-4a36-baee-fb84439284ec" />
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/dd865295-d35f-4d0b-b7b2-bf02157ba179" />
   </h1>
   <h3><em>“Good things are coming your way!”</em></h3>
 
