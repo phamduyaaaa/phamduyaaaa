@@ -5,7 +5,7 @@
 
 <a><img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" width="210"/></a>
 
-I'm studying at **Hanoi University of Industry**, majoring in **Robotics and Artificial Intelligence**.
+I am studying at **Hanoi University of Industry**, majoring in **Robotics and Artificial Intelligence**.
 
 <br/>
 
