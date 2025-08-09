@@ -3,9 +3,9 @@
   </h1>
 </div>
 
-<a href="https://phamduyaaaa.github.io/"><img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="250" style="border-radius: 10px;"/></a>
+<a href="https://phamduyaaaa.github.io/"><img align="right" src="https://github.com/user-attachments/assets/204023b8-a6e0-4bf9-aae0-ca6e14566085" alt="Pham Duc Duy's Image" height="200" style="border-radius: 10px;"/></a>
 
-I'm studying at **Hanoi University of Industry**, majoring in **Robotics and Artificial Intelligence**.
+I'm studying at **Hanoi University of Industry**, majoring in **Robotics and AI**.
 
 <br/>
 
