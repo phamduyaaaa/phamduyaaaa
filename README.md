@@ -46,9 +46,7 @@ I am deeply passionate about leveraging AI to tackle real-world challenges, with
 ## <img width="40" height="40" alt="emojis com a-simple-cartoon-crown,-bright-yellow,-playful" src="https://github.com/user-attachments/assets/01c4f126-34d6-4334-8a64-ed274decec17" /> My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamduyaaaa&theme=ambient_gradient&show_icons=true" alt="Duy Pham's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamduyaaaa&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=phamduyaaaa&theme=journey&dithering=true&hide=avatar" width="700"/>
 </div>
 
 <br/>
@@ -65,8 +63,8 @@ I am deeply passionate about leveraging AI to tackle real-world challenges, with
   <a href="https://github.com/phamduyaaaa/MuJoCo-with-DDPG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=MuJoCo-with-DDPG&theme=radical" />
   </a>
-  <a href="https://github.com/phamduyaaaa/Play-Atari-with-Deep-Q-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=Play-Atari-with-Deep-Q-Learning&theme=radical" />
+  <a href="https://github.com/phamduyaaaa/Play-Atari-with-Double-Deep-Q-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=Play-Atari-with-Double-Deep-Q-Learning&theme=radical" />
   </a>
   <a href="https://github.com/phamduyaaaa/RL_gazebo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=RL_gazebo&theme=radical" />
@@ -87,7 +85,6 @@ I am deeply passionate about leveraging AI to tackle real-world challenges, with
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=CS50P&theme=radical" />
   </a>
 </div>
-
 <br>
 <div align="center">
 
