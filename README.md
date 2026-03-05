@@ -55,38 +55,39 @@ I am deeply passionate about leveraging AI to tackle real-world challenges, with
 
 <div align="center">
   <a href="https://github.com/phamduyaaaa/Play-All-ToyText-with-Q-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=Play-All-ToyText-with-Q-Learning&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=Play-All-ToyText-with-Q-Learning&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Play-All-ToyText-with-Q-Learning" />
   </a>
   <a href="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=qr-dqn-robot-simulation-assets&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=qr-dqn-robot-simulation-assets&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="qr-dqn-robot-simulation-assets" />
   </a>
   <a href="https://github.com/phamduyaaaa/MuJoCo-with-DDPG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=MuJoCo-with-DDPG&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=MuJoCo-with-DDPG&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="MuJoCo-with-DDPG" />
   </a>
   <a href="https://github.com/phamduyaaaa/Play-Atari-with-Double-Deep-Q-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=Play-Atari-with-Double-Deep-Q-Learning&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=Play-Atari-with-Double-Deep-Q-Learning&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Play-Atari-with-Double-Deep-Q-Learning" />
   </a>
   <a href="https://github.com/phamduyaaaa/RL_gazebo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=RL_gazebo&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=RL_gazebo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="RL_gazebo" />
   </a>
   <a href="https://github.com/phamduyaaaa/2-DOF-Robot-Arm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=2-DOF-Robot-Arm&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=2-DOF-Robot-Arm&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2-DOF-Robot-Arm" />
   </a>
   <a href="https://github.com/phamduyaaaa/3DObjectRecognition-VoxNet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=3DObjectRecognition-VoxNet&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=3DObjectRecognition-VoxNet&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="3DObjectRecognition-VoxNet" />
   </a>
   <a href="https://github.com/phamduyaaaa/RoadDetection-DeepLabv3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=RoadDetection-DeepLabv3&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=RoadDetection-DeepLabv3&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="RoadDetection-DeepLabv3" />
   </a>
   <a href="https://github.com/phamduyaaaa/Visionary-T">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=Visionary-T&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=Visionary-T&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Visionary-T" />
   </a>
   <a href="https://github.com/phamduyaaaa/CS50P">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamduyaaaa&repo=CS50P&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=CS50P&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="CS50P" />
   </a>
 </div>
 <br>
 <div align="center">
+
 
   <h1>
     <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/dd865295-d35f-4d0b-b7b2-bf02157ba179" />
