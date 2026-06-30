@@ -61,34 +61,34 @@ Most robotics demos work in ideal conditions — my job is making them work when
 
 <div align="center">
   <a href="https://github.com/phamduyaaaa/do_an_tot_nghiep">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=do_an_tot_nghiep&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="HG-Dagger Obstacle Avoidance" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=do_an_tot_nghiep&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="HG-Dagger Obstacle Avoidance" />
   </a>
   <a href="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=qr-dqn-robot-simulation-assets&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="qr-dqn-robot-simulation-assets" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=qr-dqn-robot-simulation-assets&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="qr-dqn-robot-simulation-assets" />
   </a>
   <a href="https://github.com/phamduyaaaa/Play-All-ToyText-with-Q-Learning">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=Play-All-ToyText-with-Q-Learning&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Play-All-ToyText-with-Q-Learning" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=Play-All-ToyText-with-Q-Learning&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="Play-All-ToyText-with-Q-Learning" />
   </a>
   <a href="https://github.com/phamduyaaaa/MuJoCo-with-DDPG">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=MuJoCo-with-DDPG&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="MuJoCo-with-DDPG" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=MuJoCo-with-DDPG&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="MuJoCo-with-DDPG" />
   </a>
   <a href="https://github.com/phamduyaaaa/Play-Atari-with-Double-Deep-Q-Learning">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=Play-Atari-with-Double-Deep-Q-Learning&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Play-Atari-with-Double-Deep-Q-Learning" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=Play-Atari-with-Double-Deep-Q-Learning&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="Play-Atari-with-Double-Deep-Q-Learning" />
   </a>
   <a href="https://github.com/phamduyaaaa/RL_gazebo">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=RL_gazebo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="RL_gazebo" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=RL_gazebo&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="RL_gazebo" />
   </a>
   <a href="https://github.com/phamduyaaaa/2-DOF-Robot-Arm">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=2-DOF-Robot-Arm&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2-DOF-Robot-Arm" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=2-DOF-Robot-Arm&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="2-DOF-Robot-Arm" />
   </a>
   <a href="https://github.com/phamduyaaaa/3DObjectRecognition-VoxNet">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=3DObjectRecognition-VoxNet&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="3DObjectRecognition-VoxNet" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=3DObjectRecognition-VoxNet&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="3DObjectRecognition-VoxNet" />
   </a>
   <a href="https://github.com/phamduyaaaa/RoadDetection-DeepLabv3">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=RoadDetection-DeepLabv3&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="RoadDetection-DeepLabv3" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=RoadDetection-DeepLabv3&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="RoadDetection-DeepLabv3" />
   </a>
   <a href="https://github.com/phamduyaaaa/Visionary-T">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=Visionary-T&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Visionary-T" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=phamduyaaaa&repo=Visionary-T&title_color=d4af37&icon_color=d4af37&text_color=e0d5f0&bg_color=1a0b2e,11051c&border_color=d4af37" alt="Visionary-T" />
   </a>
 </div>
 
