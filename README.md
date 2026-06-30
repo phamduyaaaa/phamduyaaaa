@@ -41,42 +41,6 @@ Most robotics demos work in ideal conditions — my job is making them work when
 - **3D Perception:** Point cloud and depth-image pipelines (Intel D435, Visionary-T) for 3D object detection in unstructured environments.
 - **Embedded Robotics:** Micro-ROS firmware on ESP32 with FreeRTOS — sub-5ms sensor publish latency for tight control loops.
 
-<br/>
-
-### 💼 Experience
-
-✦ **Robotics Software Engineer** @ **VinRobotics** | *Mar 2026 – Present*
-> Designed a robot license management system (cryptographic activation, feature gating, telemetry) for fleet deployments; deployed ROS 2 modules for factory floor QC automation.
-
-✦ **Robotics Engineer** @ **ByteHome Robotics** | *Oct 2025 – Mar 2026*
-> Led a 5-engineer team building differential-drive service robots for hospitality/healthcare (full ROS 2 stack: SLAM, Nav2, multilingual voice interaction). Took the product from prototype to commercial deployment and trained 30+ B2B clients to operate it independently.
-
-✦ **Work in** @ **HalBotLab** | *Jun 2024 – Present*
-> Directing research on Embodied AI: representation learning from egocentric observations, point cloud/depth processing pipelines, and Micro-ROS/FreeRTOS firmware.
-
-<br/>
-
-### 🏆 Research & Awards
-
-✦ **MethodsX (Q2 Journal)** | *Dec 2025*
-> Path Planning for Mobile Robots in Multi-Structured Environments via Distributional Reinforcement Learning.
-
-✦ **2nd Prize, University Scientific Research** | *2026*
-> Satellite image map recognition via image processing & deep learning.
-
-✦ **2nd Prize, University Informatics Olympiad** | *2025*
-
-✦ **3rd Prize, University Scientific Research** | *2025*
-> Object detection from depth sensor data.
-
-✦ **Consolation Prize, University Scientific Research** | *2024*
-> Pick-and-place trajectory optimization on a TOSHIBA DC650B die-casting cell.
-
-✦ **3rd Prize, University Student Mathematics Competition** | *2023*
-> Linear Algebra.
-
-<br/>
-
 ### <img width="35" height="35" alt="wrench" src="https://github.com/user-attachments/assets/4ff5598c-df9c-48f9-a92d-b0a3f72a7cb5" /> Technologies & Tools
 
 <p align="left">
