@@ -2,7 +2,7 @@
   <h1>
     <img width="50" height="50" alt="peace sign" src="https://github.com/user-attachments/assets/314bf9ea-3a0d-49ff-ab2d-c176c209eb18" /> Hi, I'm Phạm Đức Duy <img width="70" height="70" alt="zoro chibi" src="https://github.com/user-attachments/assets/bc5f56ea-ed38-4a91-b636-e96412435720" />
   </h1>
-  <h3><em>Robotics Software Engineer · Closing the gap between autonomous navigation research and deployed hardware</em></h3>
+  <h3><em>Robotics Software Engineer · 1%</em></h3>
 
   <br/>
 
