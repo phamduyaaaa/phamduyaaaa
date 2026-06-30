@@ -21,7 +21,7 @@ Most robotics demos work in ideal conditions — my job is making them work when
 
 <br/>
 
-## <img width="40" height="40" alt="briefcase" src="https://github.com/user-attachments/assets/4ff5598c-df9c-48f9-a92d-b0a3f72a7cb5" /> Experience
+## 💼 Experience
 
 **VinRobotics** — Robotics Software Engineer · *Mar 2026 – Present*
 Designed a robot license management system (cryptographic activation, feature gating, telemetry) for fleet deployments; deployed ROS 2 modules for factory floor QC automation.
@@ -34,7 +34,7 @@ Directing research on Embodied AI: representation learning from egocentric obser
 
 <br/>
 
-## <img width="40" height="40" alt="wrench" src="https://github.com/user-attachments/assets/4ff5598c-df9c-48f9-a92d-b0a3f72a7cb5" /> Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,go,bash,pytorch,opencv,ros,matlab,arduino,vscode,pycharm,vim,anaconda,linux,docker,git,github,aws&theme=dark" alt="My Skills"/>
@@ -90,7 +90,7 @@ Directing research on Embodied AI: representation learning from egocentric obser
 
 <br/>
 
-## <img width="40" height="40" alt="rainbow" src="https://github.com/user-attachments/assets/8435cfd7-1ab1-431f-b122-31f3efaaa436" /> Research & Awards
+## 🏆 Research & Awards
 
 - 📄 **MethodsX (Q2 Journal, Dec 2025)** — *Path Planning for Mobile Robots in Multi-Structured Environments via Distributional Reinforcement Learning* — [DOI](https://doi.org/10.1016/j.mex.2025.103554)
 - 🥈 2nd Prize, University Scientific Research 2026 — Satellite image map recognition via image processing & deep learning
@@ -101,7 +101,7 @@ Directing research on Embodied AI: representation learning from egocentric obser
 
 <br/>
 
-## <img width="40" height="40" alt="rainbow" src="https://github.com/user-attachments/assets/8435cfd7-1ab1-431f-b122-31f3efaaa436" /> Connect with Me
+## 🔗 Connect with Me
 
 <p align="left">
   <a href="https://phamduyaaaa.github.io/" target="_blank">
